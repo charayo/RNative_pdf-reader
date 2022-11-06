@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "Animal Farm",
+      "uri": "https://imgv2-2-f.scribdassets.com/img/word_document/449817929/original/63332bdf5e/1667026370?v=1",
+      "author": "George Orwell's",
+      "pdf": "animal_farm.pdf",
+      "link": "http://englishonlineclub.com/pdf/George%20Orwell%20-%20Animal%20Farm%20-%20A%20Fairy%20Story%20%5BEnglishOnlineClub.com%5D.pdf"
+    },
+    {
+      "title": "Princess of Mass",
+      "uri": "https://www.wired.com/geekdad/wp-content/uploads/2012/03/A-Princess-of-Mars1.jpg",
+      "author": "Edgar Rice Burroughs",
+      "pdf": "./assets/princess_of_mass.pdf",
+      "link": "https://pinkmonkey.com/dl/library1/digi028.pdf"
+    }
+  ]
+}
